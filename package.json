@@ -8,12 +8,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Nickelleee/webdevprojw2023.git"
+    "url": "git+https://github.com/Web-Dev-Project-W23/Final-Project"
   },
   "author": "Nicholas Lee, ADD OTHERS HERE",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Nickelleee/webdevprojw2023/issues"
-  },
-  "homepage": "https://github.com/Nickelleee/webdevprojw2023#readme"
+  "homepage": "https://github.com/Web-Dev-Project-W23/Final-Project"
 }
